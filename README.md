@@ -29,6 +29,9 @@ plt.show()
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/2b84445d-9be5-47ae-8cc8-c5418b8fc742)
 
+# RESULT:
+Thus we have created the Python code for plotting the time series of given data.
+
 
 
 
